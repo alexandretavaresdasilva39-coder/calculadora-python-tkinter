@@ -77,5 +77,5 @@ for i in range(4):
 janela.mainloop()
 
 
-https://github.com/user-attachments/assets/e4a60e6f-20c6-4015-a17f-d70bd9a04b8e
+
 

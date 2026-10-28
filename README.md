@@ -79,3 +79,7 @@ janela.mainloop()
 
 
 
+https://github.com/user-attachments/assets/423d3916-5ecc-43fc-8abd-f165352d32e8
+
+
+
